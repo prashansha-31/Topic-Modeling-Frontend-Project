@@ -1,0 +1,9 @@
+streamlit
+bertopic==0.16.0
+scikit-learn
+sentence-transformers
+hdbscan
+umap-learn
+numpy<2
+pandas
+
