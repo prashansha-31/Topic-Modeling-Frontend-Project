@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+faiss-cpu
